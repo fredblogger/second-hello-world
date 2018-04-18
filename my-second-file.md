@@ -1,11 +1,4 @@
-1. item 1
-2. item 2
-  * item 1.1
-  * item 1.2
-5. item 5
-  
-   indented text
-   
+
 1. First ordered list item
 2. Another item
   * Unordered sub-list. 
@@ -22,3 +15,12 @@
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+1. item 1
+2. item 2
+  * item 1.1
+  * item 1.2
+5. item 5
+  
+   indented text
+   
